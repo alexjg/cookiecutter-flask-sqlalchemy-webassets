@@ -1,0 +1,4 @@
+Flask==0.10.1
+webassets>=0.9
+Flask-Assets==0.8
+Flask-SQLAlchemy==1.0
